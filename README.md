@@ -12,9 +12,10 @@ At **Tekspotedu**, we believe in empowering individuals with **industry-relevant
 - 🌐 **VM (Virtual Management)**: Manage virtualized environments for IT infrastructures.
 - 📋 **Business Analytics**: Optimize decision-making with data-driven strategies.
 - 📁 **Project Management**: Lead projects effectively with proven methodologies.
-- 💻 **Full Stack Java**: Create responsive, dynamic web applications with React.
-- 💻 **Full Stack DevOps**: Create responsive, dynamic web applications with React.
-- 💻 **Full Stack Python**: Create responsive, dynamic web applications with React.
+- 💻 **Full Stack Java**: Java Full Stack Developer, Backend Developer, Software Engineer, Web Application Developer.
+- 💻 **Full Stack DevOps**: DevOps Engineer, Full Stack DevOps Developer, Cloud Automation Engineer, CI/CD Specialist.
+- 💻 **Full Stack Python**: Python Full Stack Developer, Django Developer, Backend Developer, Software Engineer.
+- 📋 **ServiceNow**: ServiceNow Developer, ServiceNow Administrator, ITSM Consultant, Workflow Automation Engineer.
 
 ---
 
@@ -61,4 +62,4 @@ Join us today and unlock the potential of your future. At Tekspotedu, you're not
 | **Full Stack Java**            | Java Full Stack Developer, Backend Developer, Software Engineer, Web Application Developer |
 | **Full Stack DevOps**          | DevOps Engineer, Full Stack DevOps Developer, Cloud Automation Engineer, CI/CD Specialist |
 | **Full Stack Python**          | Python Full Stack Developer, Django Developer, Backend Developer, Software Engineer |
-
+| **ServiceNow**                 | ServiceNow Developer, ServiceNow Administrator, ITSM Consultant, Workflow Automation Engineer |
