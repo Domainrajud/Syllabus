@@ -1,8 +1,8 @@
 # Course Brochure Outline
 
 ## 1. Cover Page
-**Title:** Transform Your Career with [Institute/Program Name]  
-- Tagline (e.g., "Empowering the Next Generation of Tech Leaders")  
+**Title:** Transform Your Career with [TEKSPOTEDU]  
+- Tagline ("An Advanced AI & IT Training Institute")  
 - Visuals  
 - Logo  
 - Contact Information  
@@ -10,14 +10,14 @@
 ---
 
 ## 2. Welcome Message  
-**Title:** Welcome to [Institute Name]  
+**Title:** Welcome to [Tekspotedu]  
 - Introduction to the institute  
 - Mission and values  
 
 ---
 
 ## 3. Why Choose Us  
-**Title:** Why Choose [Institute Name]?  
+**Title:** Why Choose [Tekspotedu]?  
 - Unique Selling Points  
 - Industry connections  
 - Success stories  
