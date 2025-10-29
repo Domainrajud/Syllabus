@@ -1,6 +1,7 @@
 
-# **Welcome to Skillanic: Empowering Careers with Advanced Training**  
-At **Skillanic Technologies**, we are dedicated to bridging the gap between knowledge and hands-on application. Our mission is to provide world-class training programs tailored to industry demands, empowering you to excel in your career.  
+# **Welcome to Tekspotedu: Empowering Careers with Advanced Training**
+**An Advanced AI & IT Training Institute**
+At **Tekspotedu**, we are dedicated to bridging the gap between knowledge and hands-on application. Our mission is to provide world-class training programs tailored to industry demands, empowering you to excel in your career.  
 
 ---
 
