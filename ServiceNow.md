@@ -22,12 +22,12 @@ Disclaimer: TekspotEdu facilitates the ServiceNow certification course training 
 # ServiceNow Comprehensive Syllabus
 
 ## **Module 1: Introduction to ITIL**
-• Introduction to ITSM 
-• Incident Management
-• Problem Management and change management
-• Service Request Management
-• Configuration Management Database
-• SLA’s and OLA’s
+- Introduction to ITSM 
+- Incident Management
+- Problem Management and change management
+- Service Request Management
+- Configuration Management Database
+- SLA’s and OLA’s
 
 ---
 
