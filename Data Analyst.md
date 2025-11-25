@@ -257,71 +257,71 @@ The Data Analyst Course covers technologies like Excel, Advanced Excel, Tableau,
 
 ## **Module 5: Power BI **
 - Power BI Introduction and Installation
-	Understanding Power BI Background
-	Installation of Power BI and checklist for perfect installation
-	Formatting and Setting prerequisites
-	Understanding the difference between Power BI desktop & Power Query
+	- Understanding Power BI Background
+	- Installation of Power BI and checklist for perfect installation
+	- Formatting and Setting prerequisites
+	- Understanding the difference between Power BI desktop & Power Query
 - The Power BI user interface, including types of data sources and visualizations
-	Getting familiar with the interface BI Query & Desktop
-	Understanding type of Visualisation
-	Loading data from multiple sources
-	Data type and the type of default chart on drag drop.
-	Geo location Map integration
+	- Getting familiar with the interface BI Query & Desktop
+	- Understanding type of Visualisation
+	- Loading data from multiple sources
+	- Data type and the type of default chart on drag drop.
+	- Geo location Map integration
 - Sample dashboard with Animation Visual
-	Financial sample data in Power BI
-	Preparing sample dashboard as get started
-	Map visual Types and usages in different variations
-	Understanding scatter Plot chart with Play axis and the parameters
+	- Financial sample data in Power BI
+	- Preparing sample dashboard as get started
+	- Map visual Types and usages in different variations
+	- Understanding scatter Plot chart with Play axis and the parameters
 - Power BI artificial intelligence Visual
-	Understanding the use of AI in power BI
-	AI analysis in Power BI using chart
-	Q&A chatbot and its use in real life
-	Hirarchy tree
+	- Understanding the use of AI in power BI
+	- AI analysis in Power BI using chart
+	- Q&A chatbot and its use in real life
+	- Hierarchy tree
 - Power BI Visualization
-	Understanding Column Chart
-	Understanding Line Chart
-	Implementation of Conditional formating
-	Implementation of Formating techniques
+	- Understanding Column Chart
+	- Understanding Line Chart
+	- Implementation of Conditional formating
+	- Implementation of Formating techniques
 - Power Query Editor
-	Loading data from folder
-	Understanding Power Query in detail
-	Promote header, Split to limiter, Add columns, append, merge queries etc
+	- Loading data from folder
+	- Understanding Power Query in detail
+	- Promote header, Split to limiter, Add columns, append, merge queries etc
 - Modelling with Power BI
-	Loading multiple data from different format
-	Understanding modelling (How to create relationship)
-	Connection type, Data cardinality, Filter direction
-	Making dashboard using new loaded data
+	- Loading multiple data from different format
+	- Understanding modelling (How to create relationship)
+	- Connection type, Data cardinality, Filter direction
+	- Making dashboard using new loaded data
 - Power Query Editor Filter Data
-	Power Query Custom Column & Conditional Column
-	Manage Parameter
-	Introduction to Filter and types of filter
-	Trend analysis, Future forecast
+	- Power Query Custom Column & Conditional Column
+	- Manage Parameter
+	- Introduction to Filter and types of filter
+	- Trend analysis, Future forecast
 - Customize the data in Power BI
-	Understanding Tool tip with information
-	Use and understanding of Drill Down
-	Visual interaction and customisation of visual interaction
-	Drill through function and usage
-	Button triggers
-	Bookmark and different use and implementation
-	Navigation buttons
+	- Understanding Tool tip with information
+	- Use and understanding of Drill Down
+	- Visual interaction and customisation of visual interaction
+	- Drill through function and usage
+	- Button triggers
+	- Bookmark and different use and implementation
+	- Navigation buttons
 - Dax Expressions
-	Introduction to DAX
-	Table Dax, Calculated column, DAX measure and difference
-	Eg:- Calendar, Calendar auto, Summarize, Group by etc
-	Calculated Column
-	Related, Lookup value, switch, Datedif,Rankx,Date functions
-	Dax Measure and Quick Measure
-	Remove filters, Keep filters, All, Allselected, Time Intelligence Functions,Rolling average,YoY, Running total
+	- Introduction to DAX
+	- Table Dax, Calculated column, DAX measure and difference
+	- Eg:- Calendar, Calendar auto, Summarize, Group by etc
+	- Calculated Column
+	- Related, Lookup value, switch, Datedif,Rankx,Date functions
+	- Dax Measure and Quick Measure
+	- Remove filters, Keep filters, All, Allselected, Time Intelligence Functions,Rolling average,YoY, Running total
 - Custom Visual
-	Custom visual and understanding the use of custom
-	Loading custom visual, Pinning visual
-	Loading to template for future use
-	Publishinhg Power Bi
+	- Custom visual and understanding the use of custom
+	- Loading custom visual, Pinning visual
+	- Loading to template for future use
+	- Publishinhg Power Bi
 - Power BI Service
-	Introduction to app.powerbi.com
-	Schedule refresh
-	Data flow and use power bi from online
-	Download data as live in power point and more
+	- Introduction to app.powerbi.com
+	- Schedule refresh
+	- Data flow and use power bi from online
+	- Download data as live in power point and more
 
 ---
 
