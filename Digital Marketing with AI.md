@@ -96,7 +96,7 @@
 
 ---
 
-## **Module 11: SEM Search Engine Marketing**
+## **Module 11: SEM Search Engine Marketing Quality Score**
 - Ad Rank Formula
 - Basics of Bidding
 - Quality Score
