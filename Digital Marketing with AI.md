@@ -103,7 +103,7 @@
 
 ---
 
-## **Module 12: SEM Search Engine Marketing**
+## **Module 12: SEM Search Engine Marketing Optimization**
 - Landing Page Optimization AND Building Wireframe
 
 ---
@@ -115,7 +115,7 @@
 
 ---
 
-## **Module 14: SEM Search Engine Marketing**
+## **Module 14: SEM Search Engine Marketing DeepDive**
 - Types of Ads
 - Types of Ad Extensions
 - Ad Copy Creation
