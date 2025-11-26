@@ -43,15 +43,12 @@ At **Tekspotedu**, we are dedicated to bridging the gap between knowledge and ha
 ---
 
 ## 📍 **Contact Us**  
-- **Marathahalli Branch**:  
-  1st Floor, #1, SVM Complex, Near Skywalk, Marathahalli Bridge, Bengaluru, Karnataka 560037  
-- **Kengeri Branch**:  
-  WORK 365 SPACES, #769, 2nd Floor, Prema Enclave, 1st Main, Outer Ring Road, Kengeri Satellite Town, Bengaluru, Karnataka 560060  
+- **Hyderabad Branch**:  
+  6th Floor, Bhaskar Empire, Plot No. 8, above Bank Of Baroda, Whitefields, HITEC City, Kondapur, Hyderabad, Telangana 500084. Phone: +91 8374546816 
+  
+- **Bangalore Branch**:  
+  4th Floor, Chourasia Shreyas Arcade, 3rd Main Cross Rd, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037. Phone: +91 8374546014  
 
 - **Email**: [info@tekspotedu.com](mailto:info@stekspotedu.com)  
 - **Call Us**: +91 8374546816  
 
----
-
-### Follow Us:  
-[Facebook](#) | [Twitter](#) | [LinkedIn](#)
