@@ -63,3 +63,38 @@ Join us today and unlock the potential of your future. At Tekspotedu, you're not
 | **Full Stack DevOps**          | DevOps Engineer, Full Stack DevOps Developer, Cloud Automation Engineer, CI/CD Specialist |
 | **Full Stack Python**          | Python Full Stack Developer, Django Developer, Backend Developer, Software Engineer |
 | **ServiceNow**                 | ServiceNow Developer, ServiceNow Administrator, ITSM Consultant, Workflow Automation Engineer |
+---
+## ✨ **Why Choose Tekspotedu?**  
+1. **Live Assignments**: Participate in real-time interactive sessions.  
+2. **Project-Based Learning**: Experience hands-on training with live projects.  
+3. **Mock Interviews**: Weekly mock interviews to prepare you for job opportunities.  
+4. **Placement Assistance**: Dedicated support for resumes, interviews, and career guidance.  
+5. **Certified Training**: Earn globally recognized certifications to enhance your career prospects.  
+
+---
+
+## 🔧 **Our Training Process**  
+1. **Training**: Comprehensive training led by industry experts.  
+2. **Real-Time Projects**: Work on live projects to gain hands-on experience.  
+3. **Internship**: Industry-oriented internships to refine your skills.  
+4. **Interview Skills**: Learn essential techniques to ace interviews.  
+5. **Resume Preparation**: Build a professional resume tailored to industry standards.  
+6. **Career Support**: Ongoing guidance to help you succeed.  
+
+---
+
+## 🕒 **Opening Hours**  
+- **Monday to Saturday**: 7:00 AM - 7:00 PM  
+- **Sunday**: 9:00 AM - 2:00 PM  
+
+---
+
+## 📍 **Contact Us**  
+- **Hyderabad Branch**:  
+  6th Floor, Bhaskar Empire, Plot No. 8, above Bank Of Baroda, Whitefields, HITEC City, Kondapur, Hyderabad, Telangana 500084. Phone: +91 8374546816 
+  
+- **Bangalore Branch**:  
+  4th Floor, Chourasia Shreyas Arcade, 3rd Main Cross Rd, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037. Phone: +91 8374546014  
+
+- **Email**: [info@tekspotedu.com](mailto:info@stekspotedu.com)  
+- **Call Us**: +91 8374546816  
