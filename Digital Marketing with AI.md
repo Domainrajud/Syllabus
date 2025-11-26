@@ -150,7 +150,7 @@
 
 ---
 
-## **Module 18: SMM Facebook Paid Advertisement**
+## **Module 18: SMM Facebook Paid Advertisement Budgeting**
 - Detailed Targeting Audience Research
 - Budgeting
 - A/B Testing
