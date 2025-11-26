@@ -17,7 +17,7 @@ At **Tekspotedu**, we are dedicated to bridging the gap between knowledge and ha
 
 ---
 
-## ✨ **Why Choose Skillanic?**  
+## ✨ **Why Choose Tekspotedu?**  
 1. **Live Assignments**: Participate in real-time interactive sessions.  
 2. **Project-Based Learning**: Experience hands-on training with live projects.  
 3. **Mock Interviews**: Weekly mock interviews to prepare you for job opportunities.  
@@ -48,8 +48,8 @@ At **Tekspotedu**, we are dedicated to bridging the gap between knowledge and ha
 - **Kengeri Branch**:  
   WORK 365 SPACES, #769, 2nd Floor, Prema Enclave, 1st Main, Outer Ring Road, Kengeri Satellite Town, Bengaluru, Karnataka 560060  
 
-- **Email**: [info@skillanic.com](mailto:info@skillanic.com)  
-- **Call Us**: +91 7760003670  
+- **Email**: [info@tekspotedu.com](mailto:info@stekspotedu.com)  
+- **Call Us**: +91 8374546816  
 
 ---
 
