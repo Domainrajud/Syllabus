@@ -26,6 +26,18 @@ At **Tekspotedu**, we believe in empowering individuals with **industry-relevant
 - **💼 Job-Ready Skills**: Our curriculum is designed to make you industry-ready from day one.
 - **📜 Certification**: Receive globally recognized certifications to boost your resume.
 - **🤝 Placement Assistance**: Get dedicated support for interviews, resumes, and career guidance.
+- **Live Assignments**: Participate in real-time interactive sessions.  
+- **Project-Based Learning**: Experience hands-on training with live projects.  
+- **Mock Interviews**: Weekly mock interviews to prepare you for job opportunities.  
+---
+
+## 🔧 **Our Training Process**  
+1. **Training**: Comprehensive training led by industry experts.  
+2. **Real-Time Projects**: Work on live projects to gain hands-on experience.  
+3. **Internship**: Industry-oriented internships to refine your skills.  
+4. **Interview Skills**: Learn essential techniques to ace interviews.  
+5. **Resume Preparation**: Build a professional resume tailored to industry standards.  
+6. **Career Support**: Ongoing guidance to help you succeed.  
 
 ---
 
@@ -64,24 +76,7 @@ Join us today and unlock the potential of your future. At Tekspotedu, you're not
 | **Full Stack Python**          | Python Full Stack Developer, Django Developer, Backend Developer, Software Engineer |
 | **ServiceNow**                 | ServiceNow Developer, ServiceNow Administrator, ITSM Consultant, Workflow Automation Engineer |
 ---
-## ✨ **Why Choose Tekspotedu?**  
-1. **Live Assignments**: Participate in real-time interactive sessions.  
-2. **Project-Based Learning**: Experience hands-on training with live projects.  
-3. **Mock Interviews**: Weekly mock interviews to prepare you for job opportunities.  
-4. **Placement Assistance**: Dedicated support for resumes, interviews, and career guidance.  
-5. **Certified Training**: Earn globally recognized certifications to enhance your career prospects.  
 
----
-
-## 🔧 **Our Training Process**  
-1. **Training**: Comprehensive training led by industry experts.  
-2. **Real-Time Projects**: Work on live projects to gain hands-on experience.  
-3. **Internship**: Industry-oriented internships to refine your skills.  
-4. **Interview Skills**: Learn essential techniques to ace interviews.  
-5. **Resume Preparation**: Build a professional resume tailored to industry standards.  
-6. **Career Support**: Ongoing guidance to help you succeed.  
-
----
 
 ## 🕒 **Opening Hours**  
 - **Monday to Saturday**: 7:00 AM - 7:00 PM  
