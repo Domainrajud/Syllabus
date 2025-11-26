@@ -232,7 +232,7 @@
 - Setting up Google Analytics 4
 
 ---
-## **Module 29: Analytics GA 4**
+## **Module 29: Google Analytics 4 (GA4)**
 - Creating custom events in GA4
 - Exploring the pre-built reports in GA4
 
